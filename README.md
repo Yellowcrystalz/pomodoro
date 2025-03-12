@@ -1,2 +1,2 @@
-# pomodoro
-Cute pomodoro timer website
+# pompomdoro
+Cute pompompurin themed pomodoro timer website
